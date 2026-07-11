@@ -1,0 +1,26 @@
+image: python:3.12-slim
+
+stages:
+  - deploy
+
+cache:
+  key: "$CI_COMMIT_REF_SLUG"
+  paths:
+    - .cache/pip
+
+# Le job doit s'appeler "pages" pour être reconnu par de nombreuses instances
+# GitLab Pages, y compris les installations universitaires qui ne sont pas
+# toujours sur la dernière version de GitLab.
+pages:
+  stage: deploy
+  before_script:
+    - python --version
+    - pip install --upgrade pip
+    - pip install --cache-dir .cache/pip -r requirements.txt
+  script:
+    - mkdocs build --strict --site-dir public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
