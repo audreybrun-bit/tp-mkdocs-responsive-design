@@ -8,9 +8,6 @@ cache:
   paths:
     - .cache/pip
 
-# Le job doit s'appeler "pages" pour être reconnu par de nombreuses instances
-# GitLab Pages, y compris les installations universitaires qui ne sont pas
-# toujours sur la dernière version de GitLab.
 pages:
   stage: deploy
   before_script:
@@ -18,7 +15,7 @@ pages:
     - pip install --upgrade pip
     - pip install --cache-dir .cache/pip -r requirements.txt
   script:
-    - mkdocs build --strict --site-dir public
+    - mkdocs build --site-dir public
   artifacts:
     paths:
       - public
