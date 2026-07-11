@@ -5,6 +5,7 @@ cache:
   key: "$CI_COMMIT_REF_SLUG"
   paths:
     - .cache/pip
+
 pages:
   stage: deploy
   before_script:
@@ -16,5 +17,5 @@ pages:
   artifacts:
     paths:
       - public
-  rules:
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+  only:
+    - main
