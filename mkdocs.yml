@@ -30,12 +30,13 @@ theme:
     code: Roboto Mono
 
 nav:
-  - Accueil: index.md
+ - Accueil: index.md
   - Notions:
       - Media Queries: notions/media-queries.md
       - Bootstrap: notions/bootstrap.md
-      - MkDocs Material et responsive design: notions/mkdocs-material-responsive.md
-      - Analyse réflexive: notions/analyse.md
+      - MkDocs Material Responsive: notions/mkdocs-material-responsive.md
+      - Analyse: notions/analyse.md
+      - YAML: notions/yaml.md
 
 extra_css:
   - css/extra.css
