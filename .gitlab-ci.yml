@@ -1,4 +1,4 @@
-image: python:3.11
+image: python:3.12-slim
 stages:
   - deploy
 cache:
@@ -12,9 +12,9 @@ pages:
     - pip install --upgrade pip
     - pip install --cache-dir .cache/pip -r requirements.txt
   script:
-    - mkdocs build
+    - mkdocs build --site-dir public
   artifacts:
     paths:
-      - site
+      - public
   rules:
     - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
