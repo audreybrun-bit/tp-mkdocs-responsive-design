@@ -31,10 +31,10 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Media Queries: Media Queries.md
-  - Bootstrap: Bootstrap.md
-  - MkDocs: MkDocs.md
-  - Analyse réflexive: Analyse réflexive.md  
+  - Media Queries: media-queries.md
+  - Bootstrap: bootstrap.md
+  - MkDocs: mkdocs.md
+  - Analyse réflexive: analyse-reflexive.md  
   
   - Notions:
       - Media Queries: notions/media-queries.md
