@@ -30,8 +30,6 @@ theme:
     code: Roboto Mono
 
 nav:
-  
-
   - Accueil: index.md
   - Notions:
       - Media Queries: notions/media-queries.md
