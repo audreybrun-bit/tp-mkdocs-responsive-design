@@ -11,6 +11,8 @@ MkDocs Material rend la publication plus simple :
 
 Le responsive y est géré en grande partie par le thème. Cependant, l'ingénieur pédagogique doit tout de même produire un contenu lisible, structuré, et adapté à une lecture sur différents supports.
 
+![image mkdocs](img/mkdocs.png)
+
 ## Navigation et organisation
 
 - Le fichier `mkdocs.yml` définit le menu via la section `nav`.
