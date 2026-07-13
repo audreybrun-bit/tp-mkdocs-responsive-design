@@ -1,14 +1,14 @@
 # Accueil
 
-Bienvenue sur ce mini site réalisé dans le cadre du Master Ingénierie Pédagogique et Multimédia (IPM) à l'Université de Lille.
+Bienvenue sur ce site réalisé dans le cadre de notre Master en Ingénierie Pédagogique Multimodale (IPM) avec l'Université de Lille.
 
-Produit en Markdown avec MkDocs Material, ce site présente trois outils web incontournables pour le responsive design :
+Produit en Markdown avec MkDocs Material, ce site présente trois outils web essentiels pour faire du responsive design :
 
 - les média queries
 - Bootstrap
 - MkDocs
 
-Il interroge leur intérêt et leur mobilisation dans une démarche d'ingénierie pédagogique numérique.
+Il présente leur intérêt et leur mobilisation dans une démarche d'ingénierie pédagogique numérique.
 
 ![image accueil](img/accueil.png)
 *Image générée par IA*
