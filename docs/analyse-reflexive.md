@@ -4,6 +4,8 @@ Cette analyse réflexive met en relation les choix techniques réalisés dans le
 
 La fiche F2D57 définit la mission de cet emploi-type ainsi : *« étudier et assurer la maîtrise d'œuvre des projets numériques pour répondre aux besoins des acteurs et publics des établissements et favoriser l'évolution des pratiques pédagogiques »*. C'est cette mission qui sert de fil conducteur à l'analyse qui suit.
 
+![image conclusion](img/conclusion.png)
+
 ## 1. Objectif de l'analyse
 
 Il s'agit de montrer en quoi les décisions techniques prises dans ce projet relèvent d'une véritable démarche d'**ingénierie pédagogique**, et contribuent à :
