@@ -17,10 +17,10 @@ Ce site est propulsé par MkDocs Material et hébergé sur GitLab Pages. Son fon
 
 ## Contenus du site
 
-- **Média queries** : le mécanisme CSS qui adapte l'affichage selon l'écran.
-- **Bootstrap** : le framework qui accélère la création d'interfaces responsives.
-- **MkDocs** : le générateur de site statique utilisé pour produire ce site.
-- **Analyse réflexive** : positionnement de ces outils dans l'activité de l'ingénieur pédagogique (fiche [F2D57](https://data.enseignementsup-recherche.gouv.fr/pages/fiche_emploi_type_referens_iii_itrf/?refine.referens_id=F2D57#top)).
+- **Média queries** : comment adapter l'affichage d'un site selon la taille de l'écran.
+- **Bootstrap** : un outil pour créer plus rapidement des sites qui s'adaptent à tous les écrans.
+- **MkDocs** : l'outil utilisé pour créer ce site lui-même.
+- **Analyse réflexive** : en quoi ces outils sont utiles pour le métier d'ingénieur pédagogique (fiche [F2D57](https://data.enseignementsup-recherche.gouv.fr/pages/fiche_emploi_type_referens_iii_itrf/?refine.referens_id=F2D57#top)).
 
 ## Réalisé par
 
