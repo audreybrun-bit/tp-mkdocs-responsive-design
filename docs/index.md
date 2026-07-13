@@ -11,6 +11,7 @@ Produit en Markdown avec MkDocs Material, ce site présente trois outils web inc
 Il interroge leur intérêt et leur mobilisation dans une démarche d'ingénierie pédagogique numérique.
 
 ![image accueil](img/accueil.png)
+*Image générée par IA*
 
 Ce site est propulsé par MkDocs Material et hébergé sur GitLab Pages. Son fonctionnement illustre un principe simple mais puissant pour la production de ressources pédagogiques : écrire du contenu en Markdown, laisser MkDocs le transformer en pages HTML, puis publier automatiquement via GitLab Pages.
 
