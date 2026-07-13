@@ -6,7 +6,7 @@ Les media queries permettent d'appliquer des styles CSS selon les caractéristiq
 
 **Objectif** : éviter qu'une mise en page « casse » quand l'utilisateur change de support (mobile, tablette, ordinateur) ou modifie la taille de texte. En contexte d'ingénierie pédagogique, cela sert directement la lisibilité des consignes, la stabilité de la navigation et l'accessibilité, notamment pour des apprenants utilisant des zooms ou des tailles de police augmentées.
 
-![image mediaqueries](img/dediaqueries.png)
+![image mediaqueries](img/mediaqueries.png)
 *Image générée par IA*
 
 ## Syntaxe essentielle
