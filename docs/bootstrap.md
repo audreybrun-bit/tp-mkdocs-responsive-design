@@ -10,7 +10,7 @@ Bootstrap fournit des briques prêtes à l'emploi pour concevoir rapidement une 
 
 Concrètement, Bootstrap permet de passer d'une maquette conceptuelle (contenu + structure) à une mise en page opérationnelle, tout en limitant les ruptures entre mobile, tablette et desktop. La logique est en général **mobile-first** : on définit d'abord une mise en page utilisable sur petits écrans, puis on l'enrichit à l'aide des breakpoints.
 
-![image bootstrap](img/bootstrap.png)
+![image bootstrap](img/bootstrap1.png)
 
 ## Grille responsive (exemple)
 
