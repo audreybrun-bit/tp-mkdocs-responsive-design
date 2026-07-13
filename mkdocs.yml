@@ -1,5 +1,5 @@
 site_name: Mini site - Les fondamentaux du Web Responsive - IPM
-site_description: Base MkDocs Material pour publier un mini site avec GitLab Pages.
+site_description: Mini site présentant les fonctionnalités des Media Queries, du responsive design, de Bootstrap et de MkDocs et l'intérêt que cela représente dans la conception de supports numériques pédagogiques.
 site_author: Audrey BRUN, Indiana DUFEIX, Jeanne FANG, Sabrina VASSEUR
 
 theme:
@@ -15,7 +15,7 @@ theme:
         name: Passer au mode sombre
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: orange
       accent: amber
       toggle:
         icon: material/weather-sunny
